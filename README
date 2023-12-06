@@ -1,0 +1,28 @@
+Hello welcome to my readme
+Today i'll show you how to use the main.py
+
+--------------------------------------------------------------------------------------------------
+
+When running the code you'll be welcomed by a list of possible actions.
+To use them you'll need to look at the number at the left and type it in the terminal, once typed press ENTER.
+We'll pass trough them :
+
+1-Add note : Add a note to the sql table.
+	It takes 2 parametres content and categorie.
+	Content : Put the content of the note you want to add in the terminal.
+	Categorie : Choose the categorie of the note from a list of categorie.
+
+2-Consult Note : Return all the notes from the sql table.
+	You simply have to choose it no other input is needed.
+
+3-Note by id : Return the note whith the id you entered.
+	It takes only 1 parametre id.
+	Put the id of the note you want and it'll return it.
+
+4-Exit : It close the program
+	You simplu have to choose it no other input is needed.
+
+Please note that :
+-Every actions you can do is in the terminal and only the terminal.
+-You can't click on the options you need to specify the number beside it to select it.
+-When you need to enter something its also in the terminal.
